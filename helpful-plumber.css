@@ -1,16 +1,15 @@
-
 /* Set up colour palette and fonts using variables */
 
 :root {
-  --primary: #bccad0;
-  --onprimary:#4f4e4e;
-  --secondary: #495054;
-  --onsecondary:#ffffff;
-  --tertiary:#747474;
-  --ontertiary: #ffffff;
-  --page:#ffffff;
-  --onpage:#000000;
-  --detail: #9ba8ae;
+  --primary: #FFDE00;
+  --onprimary: #000000;
+  --secondary: #2967D8;
+  --onsecondary: #ffffff;
+  --tertiary: #ED145B;
+  --ontertiary: #000000;
+  --page: #ffffff;
+  --onpage: #000000;
+  --detail: #45D849;
   --detail2: #000000;
 
   --body-font: 1rem Verdana, sans-serif;
