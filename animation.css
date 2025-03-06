@@ -76,7 +76,7 @@
 }
 
 .rollmeright {
-  animation: rollright ease 8s 1;
+  animation: rollright ease 4s 1;
   display: inline-block;
 }
 
